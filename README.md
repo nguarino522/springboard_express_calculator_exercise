@@ -1,1 +1,3 @@
-# springboard_express_calculator_exercise
+# Express Calculator
+
+## exercise creating a simple express.js calculator
